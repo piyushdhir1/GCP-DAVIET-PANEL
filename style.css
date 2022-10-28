@@ -1,0 +1,9 @@
+.img-fluid {
+    max-width: 397px !important;
+    height: inherit;
+    /* background-color: white; */
+}
+
+#navbarSupportedContent{
+    font-weight: bold;
+}
